@@ -1,3 +1,7 @@
+# 视频教程：https://www.youtube.com/watch?v=Gn_CRFPYfYU
+# 三种超简单方法从WARP获取WireGuard密钥，第三方工具连接自由！
+# 视频教程：https://www.youtube.com/watch?v=Gn_CRFPYfYU
+
 # wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
 
